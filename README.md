@@ -1,37 +1,60 @@
-# Student-StackX
+<h1 align="center">
+  StackXList | Stack X
+</h1>
 
-🌐 Esse projeto mostra uma Lista de Cadastro criado com Front End usando o framework React e linguagem TypeScript e a IDE VsCode;
+<p align="center">
+  <a href="#gear-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-how-to-run">How to run</a>
+</p>
 
- 🌐 Foi instalada a Fonte do Google 👇
- ➡https://fonts.google.com/specimen/Inter?query=inter
+<div align="center">
+<img width="1212" alt="Screen Shot 2022-07-21 at 22 39 08" src="https://user-images.githubusercontent.com/57332512/183978135-6d14a825-b837-4305-9a47-065ce76a020c.png">
+ </div>
 
-🌐 Foram instaladas e importadas as seguintes dependências e bibliotecas no Terminal (Power Shell) do VsCode:
 
- ➡ npm create vite@latest;
+## :gear: Technologies
 
- ➡ npm install;
+This project was developed made by me to my class of initial concepts in React, with the following technologies:
 
-➡ npm install --save phosphor-react;
+  - [ReactJS](https://reactjs.org/)
+  - Styled Components
+  
+  And this concepts:
+  
+   - Props
+   - Component
+   - Modules
+   - Framework Structure
+   - Hooks
+   - State
+   - Request to API
 
--->(Para escolher o ícone do Projeto)
+## :computer: How to run
 
- ➡ npm install --save styled-components;
+  ```bash
+    # clone repository
+    git clone
 
- ➡ npm add @types/styled-components -D; 
+    # enter web folder
+    cd project-name
 
- ➡ npm install axios;
- 
- ➡ npm add react-loading;
+    # download dependencies
+    npm install
 
- ➡ npm install –save react modal;
+    # running web project
+    ng serve
+  ```
 
- 🌐 Projeto com criação de imagens e tabela.
+## :wave: Social
 
- 🌐 As Pastas foram separadas para organização ao projeto por index e styles (indicando as informações dos códigos e a estilizações para deixar o site mais sofisticado.
+Follow me @gabriellennon :wink:
+<br />
 
-🌐 Foi instalado o código aberto para API: 👇
-➡ https://randomuser.me/api
+- [Instagram](https://www.instagram.com/gabriellennon/?hl=pt-br)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-lennon-79a639169/)
 
- 🌐 Código de execução do Projeto no Terminal (Power Shell na IDE VsCode):
-➡ npm run dev.
+<br />
 
+---
+
+[ts]: https://www.typescriptlang.org
