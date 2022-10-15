@@ -1,5 +1,7 @@
 # Student-StackX
 
+[Clique aqui](https://developer-ts.netlify.app/)
+
 🌐 Esse projeto mostra uma Lista de Cadastro criado com Front End usando o framework React e linguagem TypeScript e a IDE VsCode;
 
 🌐 Foi instalada a Fonte do Google 👇
