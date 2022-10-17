@@ -2,7 +2,7 @@
 
 ***
 
-# <div align="center">💻 [CLIQUE AQUI PARA ACESSAR](https://developer-ts.netlify.app/)
+# <div align="center">💻 [Clique aqui para acessar](https://developer-ts.netlify.app/)
  </div>
 
 <div align="center">
