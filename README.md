@@ -6,7 +6,7 @@
  </div>
 
 <div align="center">
-<img width="70%" alt="Screen Shot 2022-07-21 at 22 39 08" src="https://github.com/MaiaraSanto/Student-StackX/blob/main/ts.png">
+<img width="100%" alt="Screen Shot 2022-07-21 at 22 39 08" src="https://github.com/MaiaraSanto/Student-StackX/blob/main/ts.png">
  </div>
 
 ***
