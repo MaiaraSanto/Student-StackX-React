@@ -54,7 +54,7 @@ deixar o site mais sofisticado.
 
 ➡ https://randomuser.me/api
 
-🌐 Código de execução do Projeto no Terminal (Power Shell na IDE VsCode)
+🌐 Código de execução do Projeto no Terminal (Power Shell na IDE VsCode).
 
 ➡npm run dev.
 
