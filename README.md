@@ -52,7 +52,7 @@ deixar o site mais sofisticado.
 
 🌐 Foi instalado o código aberto para API: 👇 
 
-➡ https://randomuser.me/api.
+➡ https://randomuser.me/api;
 
 🌐 Código de execução do Projeto no Terminal (Power Shell na IDE VsCode).
 
